@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-# spa-projeto-faculdade
-=======
-# Projeto 09 (Trilha Simplificada) - Montando a Página Única (Single Page)
 
- 
+# Projeto 09  - Montando a Página Única (Single Page)
 
-Este é o projeto "capstone" da trilha de revisão de HTML e CSS, onde todos os componentes desenvolvidos anteriormente são montados para formar um website de página única completo e funcional.
-
- 
 
 ## 🚀 Sobre o Projeto
 
@@ -43,13 +36,3 @@ O projeto consiste na montagem de uma página web coesa a partir de múltiplos c
 
  
 
-## 💻 Como Executar
-
- 
-
-1. Clone este repositório com todas as pastas de `assets` dos projetos anteriores.
-
-2. Abra o arquivo `index.html` em seu navegador.
-
-3. Clique nos links da navegação para testar a rolagem suave.
->>>>>>> 380dab862f35673e67bed1cb2d6107dffc34e401
